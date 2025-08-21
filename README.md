@@ -85,19 +85,14 @@ The purpose of this project was to turn **raw transactional sales data** into **
 
 ## 🏆 Conclusion  
 
-This project demonstrates how raw transactional data can be transformed into **actionable business insights** using Excel, Power Query, and Data Modeling.  
+This project demonstrates how raw transactional data can be transformed into **actionable business insights** using Excel, Power Query, Power Pivot and Data Modeling.  
 
-By answering strategic questions on product performance, divisional growth, and market opportunities, the reports help business leaders:  
+By analysing product performance, divisional growth, and market opportunities, this reports help business leaders:  
 - Identify **top-performing products** and **areas needing attention**  
 - Track **new product launches** and their contribution to revenue  
 - Focus on **high-value markets** for expansion  
 - Support **data-driven decision making** across divisions  
 
-📌 This project reflects the workflow of a **professional Data Analyst**:  
-1. Collect and clean data  
-2. Build a robust data model  
-3. Design clear, impactful reports  
-4. Deliver insights that directly support business growth  
 
 💡 The ability to turn data into decisions is what empowers companies to stay competitive — and this project is a clear example of that process.  
 
