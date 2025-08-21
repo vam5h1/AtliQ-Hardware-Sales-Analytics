@@ -68,9 +68,9 @@ The purpose of this project was to turn **raw transactional sales data** into **
 ---
 
 ## 📈 Deliverables  
-- 📊 **Excel Report** → [Sales_Analytics_Report.xlsx](reports/Sales_Analytics_Report.xlsx).  
+- 📊 **Excel Report** → [Sales_Analytics_Report.xlsx]([reports/Sales_Analytics_Report.xlsx](https://docs.google.com/spreadsheets/d/1hWkQUUucW5x_zs8sGPCu0Uq0sQRCqsDO/edit?usp=sharing&ouid=112630923919922348266&rtpof=true&sd=true)).  
 - 📑 **PDF Report** → [Sales_Analytics_Report.pdf](reports/Sales_Analytics_Report.pdf).  
-- 🏢 **Market Report** → [Sales_Market_Report.xlsx](reports/Sales_Market_Report.xlsx).  
+- 🏢 **Market Report** → [Sales_Market_Report.xlsx]([reports/Sales_Market_Report.xlsx](https://docs.google.com/spreadsheets/d/1TniaiCofNBVmBC0h-CCIhcZ54doQu4ME/edit?usp=sharing&ouid=112630923919922348266&rtpof=true&sd=true)).  
 
 ---
 
