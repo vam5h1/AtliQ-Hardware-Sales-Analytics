@@ -77,7 +77,7 @@ The purpose of this project was to turn **raw transactional sales data** into **
 ## 🚀 How to Use  
 1. Clone or download this repository:  
    ```bash
-   git clone https://github.com/vam5h1/excel-sales-analytics.git
+   git clone https://github.com/vam5h1/Excel-Sales-Analytics.git
 2. Open Sales_Analytics_Report.xlsx in Excel (2016 or later).
 3. Explore pivot tables, dashboards, and performance insights.
 4. View Sales_Analytics_Report.pdf for a static report version.
