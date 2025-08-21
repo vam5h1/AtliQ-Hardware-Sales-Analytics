@@ -79,6 +79,8 @@ Sales-Analytics-Excel-Project/
 
 ---
 
+---
+
 ## 🛠 Tools & Techniques Used  
 - **Excel Power Query** → ETL (Extract, Transform, Load).  
 - **Excel Data Model** → Relationships between fact & dimension tables.  
