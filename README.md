@@ -98,3 +98,23 @@ By analysing product performance, divisional growth, and market opportunities, t
 
 ## 🔗 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vam5h1/)  
+
+---
+
+## 👨‍💻 About Me  
+
+I am **Vamshi Krishna Reddy Pasula**, an aspiring **Data Analyst** with a strong foundation in:  
+- **Excel, SQL, and Power BI** for analytics and visualization  
+- **Python** for data analysis and automation  
+- **Data cleaning, transformation, reporting and dashboarding**  
+- **Business-focused storytelling with data**  
+
+I hold an **M.S. in Computer Science from NJIT, USA** and have prior experience as an **Assistant System Engineer Trainee at TCS**.  
+Along with hands-on experience, I have earned industry-recognized certifications including the **IBM Data Analyst Professional Certificate** and the **Microsoft Power BI Data Analyst Professional Certificate**, showcasing both my technical expertise and business intelligence capabilities.  
+
+My long-term interest lies in **AI/ML applications in analytics**, where I aim to bridge data engineering, statistical modeling, and predictive insights to drive innovation.  
+
+🔍 Currently seeking **Data Analyst opportunities in 2025**, where I can apply my skills in **data analysis, business intelligence, data modeling, and performance measurement** to help organizations unlock actionable insights, optimize processes, and enable data-driven decision-making.  
+  
+
+---
