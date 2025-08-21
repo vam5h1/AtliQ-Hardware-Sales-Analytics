@@ -68,9 +68,10 @@ The purpose of this project was to turn **raw transactional sales data** into **
 ---
 
 ## 📈 Deliverables  
-- 📊 **Excel Report** → [Sales_Analytics_Report.xlsx](reports/Sales_Analytics_Report.xlsx)  
-- 📑 **PDF Report** → [Sales_Analytics_Report.pdf](reports/Sales_Analytics_Report.pdf)  
-- 🏢 **Market Report** → [Sales_Market_Report.xlsx](reports/Sales_Market_Report.xlsx)  
+- 📊 **Sales Report** → [Sales_Analytics_Report.xlsx](reports/Sales_Analytics_Report.xlsx) *(Download required – GitHub does not preview Excel files)*  
+- 📑 **Sales Report** → [Sales_Analytics_Report.pdf](reports/Sales_Analytics_Report.pdf) 🔗 *(Opens directly in GitHub browser view)*  
+- 🏢 **Market Report (Excel)** → [Sales_Market_Report.xlsx](reports/Sales_Market_Report.xlsx) *(Download required – GitHub does not preview Excel files)*  
+- 📑 **Market Report (PDF)** → [Sales_Market_Report.pdf](reports/Sales_Market_Report.pdf) 🔗 *(Opens directly in GitHub browser view)*  
 
 ---
 
