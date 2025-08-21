@@ -1,7 +1,5 @@
 # 📊 Excel Sales Analytics Project  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vam5h1/)  
-
 📌 End-to-end Sales Analytics project using Excel, Power Query, and Data Modeling to deliver actionable business insights.  
 
 ---
