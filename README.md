@@ -58,28 +58,6 @@ The purpose of this project was to turn **raw transactional sales data** into **
 
 ---
 
-## 📂 Project Structure  
-
-```plaintext
-Sales-Analytics-Excel-Project/
-│
-├── data/                 # Raw datasets (CSV files)
-│   ├── dim_customer.csv
-│   ├── dim_market.csv
-│   ├── dim_product.csv
-│   ├── fact_sales_monthly.zip   # Compressed due to size
-│   └── ns_targets_2021.csv
-│
-├── reports/              # Final reports
-│   ├── Sales_Analytics_Report.xlsx
-│   ├── Sales_Analytics_Report.pdf
-│   └── Sales_Market_Report.xlsx
-│
-└── README.md             # Documentation
-
----
-
----
 
 ## 🛠 Tools & Techniques Used  
 - **Excel Power Query** → ETL (Extract, Transform, Load).  
