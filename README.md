@@ -96,9 +96,6 @@ By analysing product performance, divisional growth, and market opportunities, t
 
 💡 The ability to turn data into decisions is what empowers companies to stay competitive — and this project is a clear example of that process.  
 
-## 🔗 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vam5h1/)  
-
 ---
 
 ## 👨‍💻 About Me  
