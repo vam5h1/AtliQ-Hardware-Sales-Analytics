@@ -102,6 +102,8 @@ By analysing product performance, divisional growth, and market opportunities, t
 ---
 
 ## 👨‍💻 About Me  
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vam5h1/)  
 
 I am **Vamshi Krishna Reddy Pasula**, an aspiring **Data Analyst** with a strong foundation in:  
 - **Excel, SQL, and Power BI** for analytics and visualization  
