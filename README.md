@@ -10,7 +10,6 @@
 - [Project Overview](#-project-overview)  
 - [Business Purpose & Insights](#-business-purpose--insights)  
 - [Business Questions Answered](#-business-questions-answered)  
-- [Project Structure](#-project-structure)  
 - [Tools & Techniques Used](#-tools--techniques-used)  
 - [Deliverables](#-deliverables)  
 - [How to Use](#-how-to-use)  
