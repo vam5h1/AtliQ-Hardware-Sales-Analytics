@@ -104,5 +104,3 @@ By analysing product performance, divisional growth, and market opportunities, t
 
 
 🔍 Currently seeking **Data Analyst opportunities in 2025**, where I can apply my skills in **data analysis, business intelligence, data modeling, and performance measurement** to help organizations unlock actionable insights, optimize processes, and enable data-driven decision-making.  
-  
----
