@@ -1,6 +1,6 @@
 # 📊 AtliQ Hardware Sales Analytics
 
-📌 End-to-end Sales Analytics project using Excel, Power Query, and Data Modeling to deliver actionable business insights.  
+### **📌 End-to-end Sales Analytics project using Excel, Power Query, and Data Modeling to deliver actionable business insights.**
 
 ---
 
