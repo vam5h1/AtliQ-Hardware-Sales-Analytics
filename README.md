@@ -71,7 +71,7 @@ The purpose of this project was to turn **raw transactional sales data** into **
 - [📄 Sales_Analytics_Report.pdf](reports/Sales_Analytics_Report.pdf)  
 - [📄 Sales_Market_Report.pdf](reports/Sales_Market_Report.pdf)  
 
-**Full Excel Files:**  
+**Excel Files:**  
 - [📊 Sales_Analytics_Report.xlsx](reports/Sales_Analytics_Report.xlsx)  
 - [📊 Sales_Market_Report.xlsx](reports/Sales_Market_Report.xlsx)  
 
