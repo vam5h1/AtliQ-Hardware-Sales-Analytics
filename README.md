@@ -69,11 +69,11 @@ The purpose of this project was to turn **raw transactional sales data** into **
 
 - 📑 **Sales Report**  
   - [Sales_Analytics_Report.pdf](reports/Sales_Analytics_Report.pdf)  
-  - 📊 `Sales_Analytics_Report.xlsx`  
+  - 📊 [Sales_Analytics_Report.xlsx](reports/Sales_Analytics_Report.xlsx)  
 
 - 📑 **Market Report**  
   - [Sales_Market_Report.pdf](reports/Sales_Market_Report.pdf)  
-  - 📊 `Sales_Market_Report.xlsx`  
+  - 📊 [Sales_Market_Report.xlsx](reports/Sales_Market_Report.xlsx)  
 
 ---
 
